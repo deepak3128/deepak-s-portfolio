@@ -10,7 +10,7 @@ import type {
 export const personalInfo: PersonalInfo = {
   name: "Deepak Katiyar",
   title:
-    "Full Stack Developer & Front-End React Developer | B.Tech CSE Student",
+    "Full Stack Developer | B.Tech CSE Student",
   email: "deepakhappy16@gmail.com",
   phone: "+91 8318522320",
   linkedin: "https://linkedin.com/in/deepak-katiyar",
@@ -25,14 +25,14 @@ export const education: Education = {
   degree: "B.Tech in Computer Science and Engineering",
   location: "Mandana, Kanpur, Uttar Pradesh",
   graduation: "May 2027",
-  cgpa: "7.32 / 10",
+  cgpa: "7.39 / 10",
 };
 
 export const projects: Project[] = [
   {
     id: "urbanmed-sync",
     title: "Hospital Management System (UrbanMed-Sync)",
-    period: "June 2025",
+    period: "Sep 2024",
     tech: [
       "React",
       "JavaScript",
@@ -80,7 +80,7 @@ export const projects: Project[] = [
   {
     id: "yt-shorts-blocker",
     title: "YouTube Shorts Blocker",
-    period: "2024",
+    period: "Mar 2026",
     tech: [
       "JavaScript",
       "Chrome Extensions API",
@@ -96,13 +96,13 @@ export const projects: Project[] = [
       "Production-ready: full documentation, automated icon generation, and deployment-ready structure — 11KB compressed, under 5MB footprint",
     ],
     liveUrl: "",
-    githubUrl: "",
+    githubUrl: "https://github.com/deepak3128/Shorts-Blocker-Extension",
     featured: true,
   },
   {
     id: "urban-bite-cafe",
     title: "Urban Bite Cafe",
-    period: "Jan 2024 – Mar 2024",
+    period: "Jan 2026 – Feb 2026",
     tech: [
       "React",
       "JavaScript",
@@ -125,7 +125,7 @@ export const projects: Project[] = [
   {
     id: "mocha-exp",
     title: "Mocha Exp",
-    period: "Apr 2024 – Jun 2024",
+    period: "Jun 2026",
     tech: [
       "React",
       "TypeScript",
