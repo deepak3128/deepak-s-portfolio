@@ -77,7 +77,7 @@ export function ContactSection() {
         >
           I'm actively seeking{" "}
           <span className="text-foreground font-medium">
-            remote React / Next.js Developer
+            remote React / Developer
           </span>{" "}
           roles — full-time or internship. Available for IST and flexible US/EU
           time zones. Feel free to reach out!
