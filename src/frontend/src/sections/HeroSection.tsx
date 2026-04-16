@@ -57,7 +57,7 @@ export function HeroSection() {
             data-ocid="hero-availability-badge"
           >
             <span className="w-2 h-2 rounded-full bg-accent animate-pulse inline-block" />
-            Available for React / Next.js Roles · May 2027
+            Available for React / Next.js Roles 
           </Badge>
         </motion.div>
 
